@@ -1,0 +1,2 @@
+Differential.cpp - точка входа в программу
+	Expression.cpp, Expression.h - создание мат. выражения из строки
